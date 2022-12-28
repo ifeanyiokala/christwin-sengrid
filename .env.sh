@@ -1,0 +1,3 @@
+export SENDGRID_API_KEY=
+#export EMAIL_ADDRESS=''
+export EMAIL_PASSWORD=''
